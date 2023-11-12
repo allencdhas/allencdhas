@@ -1,6 +1,4 @@
-<h1 align="center">hi 👋, i'm allen :)</h1>
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">hi 👋,  i'm allen :)</h1>
 <p align="left">
 </p>
 
