@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋,  i'm allen💫 :)</h1>
+<h1 align="center">hi 👋,  i'm allen :)</h1>
 <p align="center>a passionate and curious hooman bean with a wee bit of love and care :) </p>
 
 
