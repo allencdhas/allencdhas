@@ -34,7 +34,7 @@
     </details>
 
 </p>
----
+
 
 <p align="center">
     <a href="https://buymeacoffee.com/beaniespolaroids">
