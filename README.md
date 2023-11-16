@@ -28,8 +28,9 @@
 
 <p align="center">
     <details>
-        <summary>🖥️</summary>
-          There we go!
+        <summary>🖥️</summary
+                      
+        There we go!
     </details>
 
 </p>
