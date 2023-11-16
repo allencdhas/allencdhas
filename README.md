@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
 </p>
-
+---
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=dark&hide_border=true" alt="Streak Stats">
 </p>
