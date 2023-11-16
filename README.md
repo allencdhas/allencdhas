@@ -28,9 +28,8 @@
 
 <p align="center">
     <details>
-        <summary>Click to expand</summary>
+        <summary>🖥️</summary>
   
-          Your content goes here.
     </details>
 
 </p>
