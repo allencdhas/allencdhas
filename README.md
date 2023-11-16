@@ -27,10 +27,10 @@
 </p>
 
 <p align="center">
-    <details>
+
         <summary>🖥️</summary>
-  
-    </details>
+          
+
 
 </p>
 ---
