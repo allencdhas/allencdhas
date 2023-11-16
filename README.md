@@ -26,6 +26,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=dark&hide_border=true" alt="Streak Stats">
 </p>
 
+<p align="center">
+    <details>
+        <summary>Click to expand</summary>
+  
+          Your content goes here.
+    </details>
+
+</p>
 ---
 
 <p align="center">
