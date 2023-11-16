@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <details
+    <details>
         <summary>🖥️</summary>
           
     </details>
