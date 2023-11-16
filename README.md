@@ -26,7 +26,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=dark&hide_border=true" alt="Streak Stats">
 </p>
 
-
+---
 <p align="center">
     <a href="https://buymeacoffee.com/beaniespolaroids">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
