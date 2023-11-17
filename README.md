@@ -28,9 +28,9 @@
 </p>
 
 <details>
-    <summary>How do I dropdown?</summary>
+    <summary>Public Address</summary>
     <br>
-    This is how you dropdown.
+    0x
 </details>
 
 ---
