@@ -35,8 +35,6 @@
     </summary>
 </details>
 
-<br>
-
 <details>
     <summary>Public Address</summary>
     <br>
