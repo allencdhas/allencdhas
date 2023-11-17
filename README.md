@@ -78,9 +78,6 @@ allen :)</h1>
 
 
 
-
-
-
 ---
 <p align="center">
     <a href="https://buymeacoffee.com/beaniespolaroids">
