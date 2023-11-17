@@ -27,6 +27,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=dark&hide_border=true" alt="Streak Stats">
 </p>
 
+<details>
+    <summary>How do I dropdown?</summary>
+    <br>
+    This is how you dropdown.
+</details>
+
 ---
 <p align="center">
     <a href="https://buymeacoffee.com/beaniespolaroids">
