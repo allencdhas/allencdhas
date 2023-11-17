@@ -76,11 +76,6 @@ allen :)</h1>
 
 </details>
 
-<details>
-    <summary>Public Address</summary>
-    <br>
-    0x
-</details>
 
 
 
