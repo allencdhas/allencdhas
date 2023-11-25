@@ -12,9 +12,6 @@ allen :)</h1>
     <a href="https://medium.com/@beaniespolaroids">
         <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
     </a>
-    <a href="https://reddit.com/user/beaniespolaroids">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
-    </a>
     <a href="https://twitch.tv/talionnn">
         <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch">
     </a>
