@@ -22,7 +22,7 @@ allen :)</h1>
 
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=dark&hide_border=true" alt="Streak Stats">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=gotham&hide_border=false)<br/>
 </p>
 
 <br>
@@ -47,19 +47,6 @@ allen :)</h1>
 <img src="https://imgur.com/rilHVxA.png"/> 
 
 
-
-
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=allencdhas&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=allencdhas&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=allencdhas&icon=2&color=0)](https://visitcount.itsvg.in)
