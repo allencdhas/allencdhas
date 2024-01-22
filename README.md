@@ -20,10 +20,10 @@ allen :)</h1>
     </a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=gotham&hide_border=false)<br/>
-<p align="center">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=gotham&hide_border=false)<br/>
-</p>
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=gotham&hide_border=false" alt="GitHub Streak Stats">
+</div>
+
 
 <br>
 
