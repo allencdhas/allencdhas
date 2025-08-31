@@ -1,64 +1,57 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there+👋;+I'm+Allen+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=INSERT+COIN...;LOADING+ALLEN.EXE...;WELCOME+TO+MY+PROFILE+👾" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>a passionate and curious hooman bean with a wee bit of love and care :)</em>
+  <em>🕹️ A curious hooman bean exploring code levels, one pixel at a time 🎮</em>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://instagram.com/beaniespolaroids">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/allenchrissodhas">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00CFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://medium.com/@beaniespolaroids">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-00FF00?style=for-the-badge&logo=medium&logoColor=black" />
   </a>
   <a href="https://twitch.tv/talionnn">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-8000FF?style=for-the-badge&logo=Twitch&logoColor=white" />
   </a>
   <a href="https://twitter.com/allencdhas">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-33FFCC?style=for-the-badge&logo=twitter&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allencdhas&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=allencdhas&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allencdhas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allencdhas&theme=neon-dark&hide_border=true&background=000000&ring=FF00FF&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats">
 </div>
 
 ---
 
 <p align="center">
   <a href="https://buymeacoffee.com/beaniespolaroids">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/INSERT%20COIN-%E2%98%85%20Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=allencdhas&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=allencdhas&label=Player%20Visits&color=11&icon=5&pretty=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=allencdhas&theme=discord&no-frame=true&no-bg=false&margin-w=15" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=%23000000&textColor=%2300FF00" alt="Random Dev Joke" />
 </p>
 
-<!-- Extra fun badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/😎-Keeping%20It%20Cool-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/💡-Always%20Learning-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/☕-Fueled%20by%20Coffee-brown?style=flat-square" />
-</p>
+---
+
+<h3 align="center">🎮 GAME OVER... PRESS START TO CONTINUE 🎮</h3>
