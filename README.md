@@ -9,7 +9,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" alt="Mario level banner" width="820"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=allencdhas&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allencdhas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
