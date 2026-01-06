@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2600&pause=1200&color=E52521&center=true&vCenter=true&width=760&lines=ALLEN.EXE;WORLD+1-1;PRESS+START" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2600&pause=1200&color=E52521&center=true&vCenter=true&width=760&lines=ALLEN.EXE" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&hide_when_offline=true&background_color=0d1117" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=beaniespolaroids&cover_image=true&theme=novatorem&hide_when_offline=true&background_color=0d1117" />
 </p>
 
 ---
@@ -64,6 +64,3 @@ By day **AI / GenAI**, by night **Web3**. Always experimenting, always shipping.
   <a href="https://instagram.com/beaniespolaroids">Instagram</a>
 </p>
 
-<p align="center">
-  <sub>press start to collaborate</sub>
-</p>
