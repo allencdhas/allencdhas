@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2600&pause=1200&color=E52521&center=true&vCenter=true&width=760&lines=ALLEN.EXE" />
 </h1>
 
@@ -6,9 +6,9 @@
   <em>🍄 shipping playful software, one level at a time</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=beaniespolaroids&cover_image=true&theme=novatorem&hide_when_offline=true&background_color=0d1117" />
-</p>
+</p> -->
 
 ---
 
